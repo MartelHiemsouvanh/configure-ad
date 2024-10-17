@@ -88,7 +88,7 @@ Microsoft Azure cloud enviornment.<br />
 
 ![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/51e04238-14e4-4de4-a65b-b09680795858)
 
-                                                        READY TO BE USED NOW!!!
+                                                        
 ![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/151f95af-7b72-4e84-91fd-08de256d2924)
 
 
@@ -115,7 +115,7 @@ Microsoft Azure cloud enviornment.<br />
 
 
 
-                                                 ALL DONE, HERE IS THE NEW USER NOW!!!!!!
+                                                This Step is Complete, Here is the New User
 
 
 ![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/354add33-ad04-4d39-863f-fa8701165c01)
