@@ -130,6 +130,3 @@ Microsoft Azure cloud enviornment.<br />
         All FINISHED I HOPE YOU ENJOYED THE LAB.  
 </p>
 <br />
-
-
-![360_F_267282687_zFyIxL9ZUGrOss3OOgFzFIXWdHUeEsG3](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/556faa08-ff85-4d2c-b328-a2c04dcbb3a0) 
