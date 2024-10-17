@@ -115,7 +115,7 @@ Microsoft Azure cloud enviornment.<br />
 
 
 
-                                                This Step is Complete, Here is the New User
+                                                Here is the New User
 
 
 ![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/354add33-ad04-4d39-863f-fa8701165c01)
@@ -127,6 +127,6 @@ Microsoft Azure cloud enviornment.<br />
 
 </p>
 <p>
-        All FINISHED I HOPE YOU ENJOYED THE LAB.  
+        This Completes Tutorial for Active Directory Within Azure VMs.  
 </p>
 <br />
